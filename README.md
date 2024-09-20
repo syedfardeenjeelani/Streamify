@@ -38,7 +38,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/syedfardeenjeelani/Streamify>
+   git clone https://github.com/syedfardeenjeelani/Streamify
    cd Streamify
    ```
 
@@ -53,7 +53,7 @@ To run the project locally, follow these steps:
    ```
 
 ## Deployment
-The application is hosted on [Vercel](<your-vercel-link>).
+The application is hosted on [Vercel](https://streamify-ashy-sigma.vercel.app/)).
 
 
 
